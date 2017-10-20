@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-Miscellaneous tasks done in C#
+Miscellaneous tasks in C#
