@@ -1,0 +1,12 @@
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\CounterTest\CounterTest\bin\Debug\CounterTest.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\CounterTest\CounterTest\bin\Debug\CounterTest.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\CounterTest\CounterTest\obj\x86\Debug\CounterTest.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\CounterTest\CounterTest\obj\x86\Debug\CounterTest.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\P1.2\CounterTest\CounterTest\obj\x86\Debug\CounterTest.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\P1.2\CounterTest\CounterTest\obj\x86\Debug\CounterTest.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\P1.2\CounterTest\CounterTest\bin\Debug\CounterTest.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\P1.2\CounterTest\CounterTest\bin\Debug\CounterTest.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P1.2\CounterTest\CounterTest\bin\Debug\CounterTest.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P1.2\CounterTest\CounterTest\bin\Debug\CounterTest.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P1.2\CounterTest\CounterTest\obj\x86\Debug\CounterTest.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P1.2\CounterTest\CounterTest\obj\x86\Debug\CounterTest.pdb

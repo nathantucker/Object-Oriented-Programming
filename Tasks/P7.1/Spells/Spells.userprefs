@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B2393625-5443-41E3-9C41-D9BE2B54DFA1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spells\SpellTest.cs">
+    <Files>
+      <File FileName="Spells\Program.cs" Line="7" Column="29" />
+      <File FileName="Spells\Spell.cs" Line="1" Column="14" />
+      <File FileName="Spells\SpellBook.cs" Line="3" Column="1" />
+      <File FileName="Spells\SpellKind.cs" Line="2" Column="1" />
+      <File FileName="Spells\Heal.cs" Line="7" Column="48" />
+      <File FileName="Spells\Teleport.cs" Line="10" Column="19" />
+      <File FileName="Spells\Transmogrification.cs" Line="39" Column="27" />
+      <File FileName="Spells\SpellBookTest.cs" Line="52" Column="46" />
+      <File FileName="Spells\SpellTest.cs" Line="105" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Spells PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{AD65ACF0-7329-478C-9DA2-00ECD25F4C06}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clock\Clock.cs">
+    <Files>
+      <File FileName="Clock\Program.cs" Line="6" Column="3" />
+      <File FileName="Clock\Clock.cs" Line="13" Column="27" />
+      <File FileName="Clock\Counter.cs" Line="7" Column="22" />
+      <File FileName="Clock\UnitTest.cs" Line="48" Column="34" />
+      <File FileName="Clock\packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Clock PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

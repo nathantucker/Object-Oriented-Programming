@@ -1,0 +1,4 @@
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\lab01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb

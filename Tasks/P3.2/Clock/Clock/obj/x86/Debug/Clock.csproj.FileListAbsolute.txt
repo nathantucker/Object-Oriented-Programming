@@ -1,0 +1,14 @@
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\obj\x86\Debug\Clock.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\obj\x86\Debug\Clock.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\bin\Debug\nunit.framework.dll
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\bin\Debug\nunit.framework.xml
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P3.2\Clock\Clock\obj\x86\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\bin\Debug\nunit.framework.dll
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\bin\Debug\nunit.framework.xml
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\obj\x86\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\obj\x86\Debug\Clock.exe
+C:\Users\Nathan\Desktop\Tasks\P3.2\Clock\Clock\obj\x86\Debug\Clock.pdb

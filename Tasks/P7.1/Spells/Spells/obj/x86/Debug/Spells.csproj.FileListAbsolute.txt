@@ -1,0 +1,7 @@
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\bin\Debug\Spells.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\bin\Debug\Spells.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\obj\x86\Debug\Spells.exe
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\obj\x86\Debug\Spells.pdb
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\obj\x86\Debug\Spells.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\bin\Debug\nunit.framework.dll
+C:\Users\Nathan\Desktop\Uni\17_S1\Object-Oriented Programming\Code\Tasks\P7.1\Spells\Spells\bin\Debug\nunit.framework.xml
